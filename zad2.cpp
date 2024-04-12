@@ -3,7 +3,7 @@
 #include <conio.h>
 #include <string>
 
-const int FIELD_WIDTH = 22;
+const int FIELD_WIDTH = 35;
 
 // struktura przechowująca dane o polu tekstowym
 struct TextField {
